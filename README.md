@@ -21,5 +21,3 @@ A web application that checks password strength in real time and helps users cre
 ## 🎯 Purpose
 This project helps users understand how to create strong and secure passwords.
 
-## 📸 Screenshot
-(Add your screenshot here)
