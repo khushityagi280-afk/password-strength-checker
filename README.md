@@ -21,3 +21,4 @@ A web application that checks password strength in real time and helps users cre
 ## 🎯 Purpose
 This project helps users understand how to create strong and secure passwords.
 
+<img width="1731" height="867" alt="image" src="https://github.com/user-attachments/assets/3811f353-fcac-4b39-8c30-9f4c2817b8b0" />
